@@ -66,6 +66,7 @@ branch.io
 
 ## 🛒 South African Retail & Delivery
 ads.massmart.co.za
+ads.rain.co.za
 track.massmart.co.za
 makro.co.za/ads
 makro.co.za/tracking
