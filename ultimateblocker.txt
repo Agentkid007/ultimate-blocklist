@@ -1,7 +1,7 @@
 # Ultimate Pi-hole Blocklist for South Africans
 # Curated by kidaren | Last updated: 2025-08-09
 
-## 🌍 Global Ad Networks
+## Global Ad Networks
 doubleclick.net
 googleads.g.doubleclick.net
 pagead.l.doubleclick.net
@@ -44,7 +44,7 @@ adclick.com
 adsterra.com
 adzerk.net
 
-## 📊 Analytics & Tracking
+## Analytics & Tracking
 google-analytics.com
 ssl.google-analytics.com
 stats.g.doubleclick.net
@@ -64,13 +64,12 @@ tapjoy.com
 inmobi.com
 branch.io
 
-## 🛒 South African Retail & Delivery
+## South African Retail & Delivery
 ads.massmart.co.za
 rain.co.za
 ads.rain.co.za
 track.massmart.co.za
-makro.co.za/ads
-makro.co.za/tracking
+makro.co.za
 ads.takealot.com
 tracking.takealot.com
 pixel.takealot.com
@@ -103,7 +102,7 @@ track.zando.co.za
 ads.takealot.co.za
 track.takealot.co.za
 
-## 📰 South African Media & Ad Platforms
+## South African Media & Ad Platforms
 ads.adclick.co.za
 track.adclick.co.za
 ads.bizcommunity.com
@@ -124,7 +123,7 @@ ads.702.co.za
 ads.power987.co.za
 ads.classicfm.co.za
 
-## 🎯 Affiliate & Referral Trackers
+## Affiliate & Referral Trackers
 go.nordvpn.net
 go.pardot.com
 go.redirectingat.com
@@ -142,7 +141,7 @@ track.gumroad.com
 track.canva.com
 track.superdry.com
 
-## 🧪 Miscellaneous
+## Miscellaneous
 tracking.example.net
 clicks.example.org
 ads.example.com
